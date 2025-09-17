@@ -1,1 +1,1 @@
-# all-about-python
+This repo is for my python journey
